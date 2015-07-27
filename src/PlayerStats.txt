@@ -1,0 +1,14 @@
+tokens = 0;
+score = 0;
+totalDeaths = 0;
+lives = 0;
+chests = 0;
+eyesKilled = 0;
+snakesKilled = 0;
+bulletsFired = 0;
+arrowShots = 0;
+bombsThrown = 0;
+healthKitsUsed = 0;
+shotgunsFired = 0;
+buttonsPresse = 0;
+swordAttacks = 0;
